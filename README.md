@@ -1,42 +1,13 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
-=================================================
-
-## Project Name
-
-### Author: Student/Group Name
+## React Native Random Color Generator
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
-
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* [Snack Repo](https://snack.expo.io/@eparks/playful-yogurt)
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* Follow the link above to the Snack Repo, click `Run` in the top right of screen, scan the barcode with your Expo app from your phone and enjoy the calming voice rattle off the name of the colors shown.
 
 #### UML
-Link to an image of the UML for your application and response to events
+[React Native UML](/assets/react-native-uml.jpg)
+
+### Author: 
+Emery Parks
