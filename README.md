@@ -2,7 +2,7 @@
 A React Native app that will generate random colors and read the color name outloud.
 
 ### Links
-* [Snack Repo](https://snack.expo.io/@eparks/playful-yogurt)
+[Snack Repo](https://snack.expo.io/@eparks/playful-yogurt)
 
 ### Getting Started
 * Follow the link above to the Snack Repo
