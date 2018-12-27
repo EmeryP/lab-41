@@ -1,10 +1,13 @@
-## React Native Random Color Generator
+## React Native App
+A React Native app that will generate random colors and read the color outloud.
 
-### Links and Resources
+### Links
 * [Snack Repo](https://snack.expo.io/@eparks/playful-yogurt)
 
-#### Running the app
-* Follow the link above to the Snack Repo, click `Run` in the top right of screen, scan the barcode with your Expo app from your phone and enjoy the calming voice rattle off the name of the colors shown.
+#### Getting Started
+* Follow the link above to the Snack Repo
+* Click `Run` in the top right of screen
+* Scan the barcode with your Expo app from your phone and enjoy the calming voice as it rattles off the name of the colors. shown.
 
 #### UML
 [React Native UML](/assets/react-native-uml.jpg)
